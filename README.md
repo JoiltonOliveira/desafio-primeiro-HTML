@@ -49,101 +49,6 @@ Nova pasta/
 └── README.md               # Este arquivo
 ```
 
----
-
-## 📄 Descrição das Páginas
-
-### 🏠 `index.html` - Página Principal
-
-**Conteúdo:** Relato completo da criação nos sete dias
-
-- **Seção 1:** Introdução com o primeiro dia
-- **Seções 2-7:** Detalhamento dos dias 2 a 7
-- **Conclusão:** Reflexão final com citação bibliográfica
-
-**Tags principais:**
-- Títulos estruturados com `<h1>` e `<h2>`
-- Parágrafos com formatação usando `<strong>`, `<i>`, e `<mark>`
-- Links internos para a página complementar
-
-### 📊 `relacao-dias/relacaodias.html` - Estrutura dos Dias
-
-**Conteúdo:** Análise da organização estrutural da criação
-
-- **Estrutura:** Apresenta a relação entre os dias
-  - Dias 1-3: Formação dos ambientes
-  - Dias 4-6: Preenchimento dos ambientes
-
-**Tags principais:**
-- Lista ordenada `<ol>` com sublistas `<ul>` aninhadas
-- Uso de `<sup>` para velocidade da luz (3 x 10⁵ km/s)
-- Fórmula química com `<sub>` (H₂O)
-- Parágrafos estruturados com `<strong>`
-
----
-
-## 💡 Exemplos de Tags Utilizadas
-
-### Formatação de Texto
-```html
-<!-- Texto em negrito com ênfase -->
-<strong>Deus</strong>
-
-<!-- Texto destacado em amarelo -->
-<mark>pela força da Sua palavra</mark>
-
-<!-- Texto em itálico -->
-<i>No princípio</i>
-
-<!-- Texto pequeno para rodapé -->
-<small>Assim (em genesis 1 e 2)...</small>
-
-<!-- Abreviação com título -->
-<abbr title="baseado no livro genesis 1 & 2 do Adauto Lourenço">(em genesis 1 e 2)</abbr>
-```
-
-### Semântica e Hierarquia
-```html
-<!-- Título principal -->
-<h1>A Criação do Universo</h1>
-
-<!-- Subtítulos -->
-<h2>Relato da Criação</h2>
-<h3>A relação costuma ser apresentada assim:</h3>
-
-<!-- Separadores -->
-<hr>
-```
-
-### Listas Complexas
-```html
-<ol>
-    <li>Dia 1: luz e trevas
-        <ul>
-            <li>Dia 4: sol (3 x 10<sup>5</sup> km/s), lua e estrelas</li>
-        </ul>
-    </li>
-    <li>Dia 2: céu e águas (H<sub>2</sub>O)
-        <ul>
-            <li>Dia 5: aves e peixes</li>
-        </ul>
-    </li>
-</ol>
-```
-
-### Citação
-```html
-<blockquote>
-    Genesis 1 e 2 Adauto Lourenço, <i>O Livro da Criação</i>, Editora Vida, 2018.
-</blockquote>
-```
-
-### Links
-```html
-<a href="relacao-dias/relacaodias.html">Saiba mais...</a>
-```
-
----
 
 ## 🎓 Aprendizados
 
@@ -165,16 +70,5 @@ Este desafio permitiu a prática de:
 
 ---
 
-## 👤 Autor
-
 Desenvolvido como desafio da **Formação HTML Web Developer - DIO.ME**
-
----
-
-## 📝 Notas
-
-- O projeto utiliza UTF-8 como codificação
-- Viewport configurado para responsividade
-- Idioma definido como português brasileiro (pt-BR)
-- A tag `<font>` foi utilizada para fins didáticos (em projetos reais, usar CSS é recomendado)
 
